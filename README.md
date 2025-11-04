@@ -2,7 +2,7 @@
 
 # Speech-to-ASL: A Real-Time Translator
 
-This project, developed by [Sriram](https://github.com/sriram369/) and [Mayank](https://www.google.com/search?q=https://github.com/mayanku1111), aims to bridge the communication gap for the hearing-impaired. We built an end-to-end system that translates spoken English into a visual representation of American Sign Language (ASL).
+This project we did it in NUS Singapore, developed by [Sriram](https://github.com/sriram369/) and [Mayank](https://www.google.com/search?q=https://github.com/mayanku1111), aims to bridge the communication gap for the hearing-impaired. We built an end-to-end system that translates spoken English into a visual representation of American Sign Language (ASL).
 
 Our solution is a two-phase process:
 
