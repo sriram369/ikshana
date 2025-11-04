@@ -1,10 +1,4 @@
-Here is a comprehensive, new `README.md` file for your project.
 
-I've structured this to be a "portfolio-quality" README that clearly explains the project's goals, technical details, and outcomes for any recruiter or technical person viewing your repository.
-
-Just copy and paste the text below into your `README.md` file.
-
------
 
 # Speech-to-ASL: A Real-Time Translator
 
